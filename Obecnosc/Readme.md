@@ -1,11 +1,12 @@
-# Obecnosc Solution
-Stworzona w celu pomocy szkola 
+# Obecności
+Solucja stworzona w celu pomocy szkola 
 
-Power Apps:
+
+### Power Apps:
 - Screen Ucznia
 - Screen Nauczyciela
 
-Flow:
+### Flow:
 - Generuje raport per klasa
 - Wysyla powiadomienia do uczniow
 - Czysci pole Komentarz oraz Obecnosc
