@@ -1,4 +1,4 @@
-#Obecnosc Solution
+# Obecnosc Solution
 Stworzona w celu pomocy szkola 
 
 Power Apps:
