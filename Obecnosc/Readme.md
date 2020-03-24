@@ -11,4 +11,8 @@ Solucja stworzona w celu pomocy szkola
 - Wysyla powiadomienia do uczniow
 - Czysci pole Komentarz oraz Obecnosc
 
+[Intro do applikacji](https://youtu.be/xsnJdSmDLgg)
+
 [Instrukcja instalacji](https://youtu.be/F6tS4PzYGmM)
+
+
