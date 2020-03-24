@@ -1,6 +1,6 @@
 # Obecności
 Solucja stworzona w celu pomocy szkola 
-
+[Intro do applikacji](https://youtu.be/xsnJdSmDLgg)
 
 ### Power Apps:
 - Screen Ucznia
@@ -10,8 +10,6 @@ Solucja stworzona w celu pomocy szkola
 - Generuje dzienny raport per klasa
 - Wysyla powiadomienia do uczniow
 - Czysci pole Komentarz oraz Obecnosc
-
-[Intro do applikacji](https://youtu.be/xsnJdSmDLgg)
 
 [Instrukcja instalacji](https://youtu.be/F6tS4PzYGmM)
 
