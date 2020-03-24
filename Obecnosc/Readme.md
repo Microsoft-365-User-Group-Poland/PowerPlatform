@@ -7,7 +7,7 @@ Solucja stworzona w celu pomocy szkola
 - Screen Nauczyciela
 
 ### Flow:
-- Generuje raport per klasa
+- Generuje dzienny raport per klasa
 - Wysyla powiadomienia do uczniow
 - Czysci pole Komentarz oraz Obecnosc
 
