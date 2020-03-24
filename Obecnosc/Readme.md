@@ -1,5 +1,6 @@
 # Obecności
-Solucja stworzona w celu pomocy szkola 
+Solucja stworzona w celu pomocy szkola
+
 [Intro do applikacji](https://youtu.be/xsnJdSmDLgg)
 
 ### Power Apps:
