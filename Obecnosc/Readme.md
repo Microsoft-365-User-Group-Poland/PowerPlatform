@@ -1,5 +1,5 @@
 # Obecności
-Solucja stworzona w celu pomocy szkola
+Solucja stworzona w celu pomocy szkołom
 
 [Intro do applikacji](https://youtu.be/xsnJdSmDLgg)
 
